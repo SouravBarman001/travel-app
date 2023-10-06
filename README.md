@@ -1,15 +1,11 @@
-# travelapp
+# Travelapp
 
-A new Flutter project.
+## Focus on :
+ 1. Responsive UI
+ 2. State Management
 
-## Getting Started
+- [Figma Design]([https://docs.flutter.dev/get-started/codelab](https://www.figma.com/file/h8wOQq5KNnNUpKGyhVaqgr/Travel-App-Design-(Community)?type=design&node-id=0-1&mode=design&t=nM1XEN7veGNazkTu-0))
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
